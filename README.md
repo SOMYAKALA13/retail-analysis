@@ -74,6 +74,8 @@ Built a clean purple-themed **Retail Analysis Dashboard** with 4 key visuals
 | 📊 Quantity & Revenue by Country | Clustered bar chart comparing top 10 countries |
 | 📊 Revenue by CustomerID | Bar chart showing top 10 customers by revenue |
 | 🗺️ Total Units Sold by Country | World map showing global sales distribution |
+<img width="1367" height="800" alt="Screenshot 2026-05-31 120453" src="https://github.com/user-attachments/assets/16a0544d-27df-4b98-9bff-2c23ed189aa5" />
+
 
 ---
 
